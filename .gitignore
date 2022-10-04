@@ -1,0 +1,4 @@
+*.txt
+*.mat
+*__pycache__*
+*personal_token*
